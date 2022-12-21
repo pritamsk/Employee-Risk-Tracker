@@ -1,0 +1,37 @@
+#calender{
+    width: 1000px;
+}
+.container{
+    padding: 50px 50px;
+    margin: auto;
+    /* display: flex; */
+    align-items: center; 
+}
+.main{
+        background-color: rgb(161, 153, 153);
+        height: 665px;
+        width: 899px;
+        position: absolute;
+        margin-top: 65px;
+    }
+.popup{
+    height: 400px;
+    max-width: 400px;
+    margin-top: 100px;
+    margin-left: 235px;
+    max-height: 330px;
+    width: 50%;
+    background-color: rgb(238, 171, 171);
+    position: center;
+    top: 25%;
+    right: 25%;
+}
+.popup-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px 0 15px;
+    border-bottom: 2px solid black;
+}
+
+
+
